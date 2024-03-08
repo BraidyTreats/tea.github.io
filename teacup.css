@@ -9,6 +9,8 @@ body {
     margin-right: 0px;
     width: 286px;
     flex: 2 1 286px;
+    font: 22px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .logo {
     height: 50px;
